@@ -1,4 +1,5 @@
-# React redux todo app
+# App de lista de pendientes
+#NOTAS NECESRIAS DEL TUTORIAL SOBRE PRINCIPIANTESS EN REDUX
 
 Source code for React redux todo app YouTube tutorial. Includes
 
